@@ -10,7 +10,7 @@ It is written in Ruby 2.2.4.
 
 You must have Ruby 2.2.4+ installed on your computer.
 
-##Running the Program
+## Running the Program
 
 There may be various ways to run Ruby programs on particular machines. However, these instructions assume that you have access to your computer's command line interface.
 
@@ -37,7 +37,7 @@ There are several parameters that can be adjusted. The codes needs to be edited 
 ## Output
 
 This simulation prints results to screen. It also exports the results to a CSV file that
-can be names by the user, which can be useful for multiple runs. The default fime name is *fourier_conduction_constant.csv*.
+can be names by the user, which can be useful for multiple runs. The default file name is *fourier_conduction_constant.csv*.
 
 ## Troubleshooting
 
@@ -45,7 +45,7 @@ If the program does not run, make sure that at least Ruby version 1.9.2 is insta
 
 Make that you are in the correct directory.
 
-If you adjusted the parameters, make sure all are positive and have decimal point. Also make sure that you saved the file in a pure text format and that the filenake ends in ".rb"
+If you adjusted the parameters, make sure all are positive and have decimal point. Also make sure that you saved the file in a pure text format and that the filename ends in ".rb"
 
 ## Copyright and Use Notice
 
