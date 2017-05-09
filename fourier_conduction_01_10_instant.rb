@@ -5,7 +5,7 @@ puts "# FOURIER HEAT CONDUCTION LAW - CONSTANT FLOW             version 01.10   
 puts "#_____________________________________________________________________________#"
 puts "#                                                                             #"
 puts "# Copyright 2011-2017 by Mark Ciotola; available for use under GNU license    #"
-puts "# Created on 23 December 2014 or earlier. Last revised on 08 May 2017         #"
+puts "# Created on 23 December 2014 or earlier. Last revised on 09 May 2017         #"
 puts "#_____________________________________________________________________________#"
 puts "#                                                                             #"
 puts "# Description:                                                                #"
@@ -27,7 +27,7 @@ puts "\n\n"
 	  #                                 conductor length                            #
       #                                                                             #
       # Website: http://www.heatsuite.com                                           #
-      # Source site: https://github.com/mciotola/fouriers_law_of_heat_conduction    #
+      # Source site: https://github.com/mciotola/fourier_conduction_instantaneous   #
       ###############################################################################
 
 
