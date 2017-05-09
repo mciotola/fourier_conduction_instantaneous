@@ -1,6 +1,6 @@
 ## Description
 
-This program simulates Fourier's Law of Thermal Conduction.
+This program simulates Fourier's Law of Thermal Conduction. It is writtenin Ruby.
 
 ## Parameters
 
